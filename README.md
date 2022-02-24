@@ -12,6 +12,6 @@ i made this bot for Bebetkun discord server
 - [Invite AstroPedia](https://discord.com/oauth2/authorize?client_id=864920950549643355&scope=bot&permissions=37080590)
 
 ### Links (Bebetkun)
-- [Discord](https://discord.gg/tK8ubu466H)
+- [Discord Server](https://discord.gg/tK8ubu466H)
 - [Youtube](https://www.youtube.com/c/babibubebet)
 - [Instagram](https://www.youtube.com/c/babibubebet)
