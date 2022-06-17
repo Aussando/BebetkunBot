@@ -1,6 +1,7 @@
 i made this bot for Bebetkun discord server
 
-### Links (Aussando)
+### Links
+- Discord: Aussando#5076
 - [Discord Server](https://discord.gg/zmM5hVpzQs)
 - [Youtube](https://www.youtube.com/channel/UCX58j1_EuFAtj4Sb0V0-VVA)
 - [Instagram](https://www.instagram.com/aussando/)
