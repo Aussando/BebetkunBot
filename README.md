@@ -1,10 +1,5 @@
 i made this bot for Bebetkun discord server
 
-### About Me
-- Name: Aussando
-- Language: Indonesia, English, Javanese
-- National: Indonesia 🇮🇩
-
 ### Links (Aussando)
 - [Discord Server](https://discord.gg/zmM5hVpzQs)
 - [Youtube](https://www.youtube.com/channel/UCX58j1_EuFAtj4Sb0V0-VVA)
